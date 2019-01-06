@@ -9,7 +9,7 @@ var app = express();
 const PORT = process.env.PORT || 4000;
 
 var server = app.listen(PORT, () => {
-	console.log("Listening on requests on port ${ PORT }");
+	console.log(`Our app is running on port ${ PORT }`);
 });
 
 // Static files
