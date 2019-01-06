@@ -1,5 +1,5 @@
 //Make connection
-var PORT = process.env.PORT || 3000;
+
 var socket = io.connect('https://localhost:'+ PORT);
 
 // Query DOM 
