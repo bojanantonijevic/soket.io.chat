@@ -1,0 +1,667 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"scrip",
+				"script\tTag"
+			],
+			[
+				"hr",
+				"href"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"user",
+				"users_online_query"
+			],
+			[
+				"time",
+				"time_out_in_seconds"
+			],
+			[
+				"reset",
+				"reset_query"
+			],
+			[
+				"load",
+				"load-screen"
+			],
+			[
+				"div",
+				"div_box"
+			],
+			[
+				"conf",
+				"confirmQuery"
+			],
+			[
+				"sele",
+				"select_post_query"
+			],
+			[
+				"se",
+				"select_randsalt_query"
+			],
+			[
+				"pas",
+				"password_old"
+			],
+			[
+				"update_",
+				"update_profile"
+			],
+			[
+				"input",
+				"input-group-btn"
+			],
+			[
+				"post",
+				"post_title"
+			],
+			[
+				"q",
+				"query"
+			],
+			[
+				"in",
+				"include"
+			],
+			[
+				"mysqli_real",
+				"mysqli_real_escape_string〔function〕"
+			],
+			[
+				"select",
+				"$select_image〔variable〕"
+			],
+			[
+				"mysqli_fet",
+				"mysqli_fetch_assoc〔function〕"
+			],
+			[
+				"pos",
+				"posts"
+			],
+			[
+				"opt",
+				"option\t<option>"
+			],
+			[
+				"selc_post",
+				"$select_post_by_id〔variable〕"
+			],
+			[
+				"inclu",
+				"includes"
+			],
+			[
+				"post_image",
+				"$post_image_temp〔variable〕"
+			],
+			[
+				"upda",
+				"update_query"
+			],
+			[
+				"label",
+				"label\t<label>"
+			],
+			[
+				"inc",
+				"includes"
+			],
+			[
+				"mysqli_e",
+				"mysqli_error〔function〕"
+			],
+			[
+				"str_s",
+				"str_split"
+			],
+			[
+				"asc",
+				"asc($num"
+			],
+			[
+				"sat",
+				"$satnica〔variable〕"
+			],
+			[
+				"flo",
+				"floor〔function〕"
+			],
+			[
+				"imp",
+				"implode〔function〕"
+			],
+			[
+				"out",
+				"$outcome〔variable〕"
+			],
+			[
+				"va",
+				"value"
+			],
+			[
+				"gallon",
+				"gallon_price"
+			],
+			[
+				"margi",
+				"margin-top\tproperty"
+			],
+			[
+				"number",
+				"number_format〔function〕"
+			],
+			[
+				"is_NU",
+				"is_numeric〔function〕"
+			],
+			[
+				"e",
+				"efficiency"
+			],
+			[
+				"cel",
+				"cellspacing\tAttr"
+			],
+			[
+				"g",
+				"$greeting〔variable〕"
+			],
+			[
+				"text",
+				"textarea\t<textarea>"
+			],
+			[
+				"max",
+				"maxlength\tAttr"
+			],
+			[
+				"random",
+				"randomText〔function〕"
+			],
+			[
+				"cont",
+				"container"
+			],
+			[
+				"marg",
+				"margin-top\tproperty"
+			],
+			[
+				"ser",
+				"services"
+			],
+			[
+				"sec",
+				"section-title"
+			],
+			[
+				"uv",
+				"$uvod〔variable〕"
+			],
+			[
+				"pass",
+				"$passwordPOST〔variable〕"
+			],
+			[
+				"co",
+				"color\tproperty"
+			],
+			[
+				"fon",
+				"font-size\tproperty"
+			],
+			[
+				"file",
+				"$filename〔variable〕"
+			],
+			[
+				"pie",
+				"$pieces〔variable〕"
+			],
+			[
+				"print",
+				"print_r〔function〕"
+			],
+			[
+				"pi",
+				"$pieces〔variable〕"
+			],
+			[
+				"na",
+				"$naslov〔variable〕"
+			],
+			[
+				"inpu",
+				"inputf\tinput - file"
+			],
+			[
+				"font",
+				"font-weight\tproperty"
+			],
+			[
+				"tex",
+				"text-align\tproperty"
+			],
+			[
+				"customer",
+				"customer-support-first.html"
+			],
+			[
+				"margit",
+				"margin-bottom\tproperty"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 354.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"pack",
+				"Package Control: List Packages"
+			],
+			[
+				"enable",
+				"LiveReload: Enable/disable plug-ins"
+			],
+			[
+				"da ui",
+				"LiveReload: Enable/disable plug-ins"
+			],
+			[
+				"da",
+				"DA UI: Select Skin"
+			],
+			[
+				" da ui",
+				"DA UI: Select Accent"
+			],
+			[
+				"LiveReload: Enable/disable plugins",
+				"LiveReload: Enable/disable plug-ins"
+			],
+			[
+				"instal pa",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 592.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/wamp64/www/Node-js-playlist",
+		"/C/wamp64/www/Node-js-playlist/public"
+	],
+	"file_history":
+	[
+		"/C/wamp64/www/Node-js-playlist/index.js",
+		"/C/wamp64/www/Node-js-playlist/public/index.html",
+		"/C/wamp64/www/Node-js-playlist/public/chat.js",
+		"/C/wamp64/www/Node-js-playlist/package.json",
+		"/C/wamp64/www/Node-js-playlist/public/style.css",
+		"/C/wamp64/www/Node-js-playlist/app.js",
+		"/C/Users/bojan/AppData/Roaming/Sublime Text 3/Packages/Terminal/Default (Windows).sublime-keymap",
+		"/C/Users/bojan/AppData/Roaming/Sublime Text 3/Packages/Terminality/README.md",
+		"/C/wamp64/www/CMS/admin/includes/header.php",
+		"/C/wamp64/www/CMS/admin/includes/footer.php",
+		"/C/wamp64/www/CMS/post.php",
+		"/C/Users/Bojan/Desktop/UwAmp/www/CMS/includes/navigation.php",
+		"/C/Users/Administrator/Desktop/navigation.php",
+		"/C/Users/Bojan/Desktop/UwAmp/www/CMS/category.php",
+		"/C/Users/Administrator/Desktop/category.php",
+		"/C/Users/Bojan/Desktop/UwAmp/www/CMS/admin/includes/delete_modal.php",
+		"/C/Users/Bojan/Desktop/UwAmp/www/CMS/includes/blog_content.php",
+		"/C/Users/Bojan/Desktop/UwAmp/www/CMS/admin/includes/view_all_posts.php",
+		"/C/Users/Bojan/Desktop/UwAmp/www/CMS/admin/includes/header.php",
+		"/C/Users/Bojan/Desktop/UwAmp/www/CMS/admin/includes/view_all_users.php",
+		"/C/Users/Bojan/Desktop/UwAmp/www/CMS/admin/users.php",
+		"/C/Users/Bojan/Desktop/UwAmp/www/CMS/post.php",
+		"/C/Users/Bojan/Desktop/UwAmp/www/CMS/admin/functions.php",
+		"/C/Users/Bojan/Desktop/UwAmp/www/CMS/registration.php",
+		"/C/Users/Bojan/Desktop/UwAmp/www/CMS/search.php",
+		"/C/Users/Bojan/Desktop/UwAmp/www/CMS/admin/profile.php",
+		"/C/Users/Bojan/Desktop/UwAmp/www/CMS/admin/comments.php",
+		"/C/Users/Bojan/Desktop/UwAmp/www/CMS/admin/posts.php",
+		"/C/Users/Bojan/Desktop/UwAmp/www/CMS/admin/categories.php",
+		"/C/Users/Bojan/Desktop/UwAmp/www/CMS/admin/author_posts.php",
+		"/C/Users/Bojan/Desktop/UwAmp/www/CMS/admin/includes/view_all_comments.php",
+		"/C/Users/Bojan/Desktop/UwAmp/www/CMS/admin/includes/update.php",
+		"/C/Users/Bojan/Desktop/UwAmp/www/CMS/admin/includes/edit_user.php",
+		"/C/Users/Bojan/Desktop/UwAmp/www/CMS/admin/includes/edit_post.php",
+		"/C/Users/Bojan/Desktop/UwAmp/www/CMS/admin/includes/add_user.php",
+		"/C/Users/Bojan/Desktop/UwAmp/www/CMS/admin/includes/add_posts.php",
+		"/C/Users/Bojan/Desktop/UwAmp/www/CMS/author_posts.php",
+		"/C/Users/Bojan/Desktop/UwAmp/www/CMS/admin/index.php",
+		"/C/Users/Bojan/Desktop/UwAmp/www/CMS/admin/includes/navigation.php",
+		"/C/Users/Bojan/Desktop/UwAmp/www/CMS/admin/js/scripts.js",
+		"/C/Users/Bojan/Desktop/UwAmp/www/CMS/includes/header.php",
+		"/C/Users/Bojan/Desktop/UwAmp/www/CMS/index.php",
+		"/C/Users/Bojan/Desktop/UwAmp/www/CMS/css/style.css",
+		"/C/Users/Bojan/Desktop/UwAmp/www/CMS/includes/blog_content_old.php",
+		"/C/Users/Bojan/Desktop/UwAmp/www/CMS/index_old.php",
+		"/C/Users/Bojan/Desktop/UwAmp/www/CMS/admin/includes/footer.php",
+		"/C/Users/Bojan/Desktop/UwAmp/www/CMS/admin/css/styles.css",
+		"/C/Users/Bojan/Desktop/UwAmp/www/CMS/includes/login.php",
+		"/C/Users/Bojan/Desktop/UwAmp/www/CMS/admin/css/sb-admin.css",
+		"/C/Users/Bojan/Desktop/UwAmp/www/CMS/css/bootstrap.css",
+		"/C/Users/Bojan/Desktop/UwAmp/www/CMS/admin/css/bootstrap.css",
+		"/C/Users/Bojan/Desktop/UwAmp/www/CMS/admin/admin_widgets.html",
+		"/C/Users/Bojan/Desktop/UwAmp/www/CMS/includes/sidebar.php",
+		"/C/Users/Bojan/Desktop/UwAmp/www/CMS/includes/logout.php",
+		"/C/Users/Administrator/Desktop/edit_post.php",
+		"/C/Users/Administrator/Desktop/view_all_posts.php",
+		"/C/Users/Bojan/Pictures/IT Akademija/PHP 2016/Core PHP/1 predavanje/test.php",
+		"/C/Users/Bojan/Pictures/IT Akademija/PHP 2016/Advance Php/vezbanje/vezba1.php",
+		"/C/Users/Bojan/Desktop/add_post.php",
+		"/C/Users/Bojan/Desktop/update_categories.php",
+		"/C/Users/Bojan/Desktop/UwAmp/www/CMS/includes/db.php",
+		"/C/Users/Bojan/Desktop/UwAmp/www/CMS/includes/widget.php",
+		"/C/Users/Bojan/Desktop/UwAmp/www/CMS/includes/search.php",
+		"/C/Users/Bojan/Desktop/UwAmp/www/CMS/includes/footer.php",
+		"/C/Users/Bojan/AppData/Roaming/Sublime Text 3/Packages/User/openinbrowser.sublime-settings",
+		"/C/Users/Bojan/Desktop/UwAmp/www/Udemi/php cms/embeded.php",
+		"/C/Users/Bojan/Desktop/UwAmp/www/testovi/arraysum.php",
+		"/C/Users/Bojan/Desktop/UwAmp/www/testovi/code.php",
+		"/C/Users/Bojan/Desktop/UwAmp/www/testovi/sortstringa.php",
+		"/C/Users/Bojan/Desktop/UwAmp/www/testovi/constant.php",
+		"/C/Users/Bojan/Desktop/UwAmp/www/testovi/satnica.php",
+		"/C/Users/Bojan/Desktop/UwAmp/www/testovi/lettercapitalize.php",
+		"/C/Users/Bojan/Desktop/UwAmp/www/testovi/promenaslova.php",
+		"/C/Users/Bojan/Desktop/UwAmp/www/testovi/dugarec.php",
+		"/C/Users/Bojan/Desktop/UwAmp/www/chapter3-dynamic website/includes/header.html",
+		"/C/Users/Bojan/Desktop/UwAmp/www/chapter3-dynamic website/calculator/calculator.php",
+		"/C/Users/Bojan/Desktop/UwAmp/www/chapter3-dynamic website/css/sticky-footer-navbar.css",
+		"/C/Users/Bojan/Desktop/UwAmp/www/chapter3-dynamic website/index.php",
+		"/C/Users/Bojan/Desktop/UwAmp/www/chapter3-dynamic website/includes/footer.html",
+		"/C/Users/Bojan/Desktop/UwAmp/www/forma/array_sort.php",
+		"/C/Users/Bojan/Desktop/UwAmp/www/forma/form.html",
+		"/C/Users/Bojan/Desktop/UwAmp/www/forma/handle_form.php",
+		"/C/Users/Bojan/Desktop/UwAmp/www/forma/array.php",
+		"/C/Users/Bojan/Desktop/The Office/July 2802018/noty/dist/notiny.js",
+		"/C/Users/Bojan/AppData/Roaming/Sublime Text 3/Packages/LiveReload/LiveReload.sublime-settings",
+		"/C/Users/Bojan/Desktop/The Office/July 2802018/index.html",
+		"/C/My Web Sites/socialupgrade.co_/socialupgrade.co/assets/js/app-ad763370a1.min.js",
+		"/C/Users/Bojan/Desktop/The Office/July 2802018/noty/dist/notiny.css",
+		"/C/My Web Sites/socialupgrade.co_/socialupgrade.co/index.html",
+		"/C/My Web Sites/socialupgrade.co_/socialupgrade.co/pricing.html",
+		"/C/Users/Bojan/Desktop/The Office/July 2802018/css/main.css",
+		"/C/Users/Bojan/Desktop/New folder/index.html",
+		"/C/Users/Bojan/Desktop/The Office/July 2802018/js/main.js",
+		"/C/Users/Bojan/Desktop/New folder/css/main.css",
+		"/C/wamp64/www/blog template/input_submit.php",
+		"/C/wamp64/www/blog template/whytooutsource.php",
+		"/C/wamp64/www/blog template/emailservice.php",
+		"/C/wamp64/www/blog template/customer-support-first.php",
+		"/C/wamp64/www/blog template/index.php",
+		"/C/wamp64/www/blog template/login.php",
+		"/C/wamp64/www/blog template/input.php",
+		"/C/Windows/System32/drivers/etc/hosts",
+		"/C/Users/Bojan/Desktop/hosts",
+		"/C/Users/Bojan/Downloads/sitemap.xml",
+		"/C/Users/Bojan/Desktop/The Office/blog/index.php",
+		"/C/wamp64/www/blog template/index (2).php",
+		"/C/wamp64/www/blog template/proba.php",
+		"/C/Users/Bojan/Desktop/PHP primeri/provera sifre/provera sifre i forma.php",
+		"/C/wamp64/www/blog template/destroy.php",
+		"/C/wamp64/www/blog template/css/inputstyle.css",
+		"/C/wamp64/www/phonebook/index.php",
+		"/C/wamp64/www/blog template/css/loginstyle.css",
+		"/C/wamp64/www/blog template/req/param.php",
+		"/C/Users/Bojan/Desktop/The Office/blog/index.html",
+		"/C/wamp64/www/blog template/results.php",
+		"/C/wamp64/www/blog template/Source.html",
+		"/C/wamp64/www/blog template/sidebar.php",
+		"/C/wamp64/www/phonebook/insert.php",
+		"/C/Users/Bojan/Desktop/The Office/blog/whytooutsource.html",
+		"/C/Users/Bojan/Desktop/The Office/blog/customer-support-first.html",
+		"/C/Users/Bojan/Desktop/The Office/blog/emailservice.html",
+		"/C/Users/Bojan/Desktop/The Office/blog/css/style.css",
+		"/C/Users/Bojan/Desktop/The Office/blog/css/chimp.css",
+		"/C/Users/Bojan/Desktop/The Office/Site 23 Jun/index.html",
+		"/C/Users/Bojan/Desktop/The Office/blog/css/bootstrap.css",
+		"/C/Users/Bojan/Desktop/The Office/blog/whytooutsource.html.html",
+		"/C/Users/Bojan/Desktop/The Office/blog/single.html",
+		"/C/Users/Bojan/Desktop/The Office/Site 23 Jun/js/main.js"
+	],
+	"find":
+	{
+		"height": 30.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"header",
+			"author",
+			"post",
+			"user_id",
+			"post_user",
+			"auth",
+			"post_user",
+			"post_author",
+			"post_user",
+			"insert_categories",
+			"clon",
+			"post_",
+			"admin",
+			"read more",
+			"edit_user",
+			"randSalt",
+			"class",
+			"user_image",
+			"catego",
+			"post_category_id",
+			"temp_name",
+			"author",
+			"post_author",
+			"title",
+			"post_title",
+			"category_id",
+			"post_category_id",
+			"temp_name",
+			"post_category_id",
+			"post_tag",
+			"title",
+			"user",
+			"insert",
+			"posts",
+			"post",
+			"includes",
+			"<$",
+			"ass",
+			"script",
+			"notifica",
+			"script",
+			"wid",
+			"text",
+			"right-bottom",
+			"position",
+			"body",
+			"item",
+			"service",
+			".icon",
+			"icon",
+			"bold-text",
+			"light-text main-color",
+			"why",
+			"new",
+			"img",
+			".html",
+			"index.html",
+			"html.html",
+			"index.html",
+			"16px",
+			"margin",
+			"fav",
+			"br",
+			"padding:15px",
+			"#00aeff",
+			"body"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"post_user",
+			".php",
+			"index.php",
+			"#d25400"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 30.0
+	},
+	"input":
+	{
+		"height": 68.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.SublimeLinter":
+	{
+		"height": 0.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.mdpopups":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "chat.io.sublime-project",
+	"replace":
+	{
+		"height": 56.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
