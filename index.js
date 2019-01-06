@@ -11,7 +11,7 @@ const PORT = process.env.PORT || 3000;
 var server = app.listen(PORT, () => {
 	console.log(`Our app is running on port ${ PORT }`);
 });
-export PORT;
+
 
 
 // Static files
