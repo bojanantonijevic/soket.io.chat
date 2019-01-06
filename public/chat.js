@@ -1,6 +1,6 @@
 //Make connection
-
-var socket = io.connect('https://localhost: echo $PORT');
+var PORT = process.env.PORT || 3000;
+var socket = io.connect('https://localhost:'+ PORT+');
 
 // Query DOM 
 
