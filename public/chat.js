@@ -24,6 +24,18 @@ btn.addEventListener('click', function(){
 	message.value = '';
 
 });
+// enter key to send the input
+document.getElementById("message").addEventListener("keydown", function(e) {
+    if (!e) { var e = window.event; }
+    
+    // Enter is pressed
+    if (e.keyCode == 13) { socket.emit('chat', {
+		message : message.value,
+		handle : handle.value
+
+	}); message.value = '';}
+}, false);
+
 
 message.addEventListener('keypress', function(){
 	socket.emit('typing', handle.value);
