@@ -11,6 +11,15 @@ var message = document.getElementById('message');
 	output = document.getElementById('output'),
 	feedback = document.getElementById('feedback');
 
+//lock the name if focusout && name longer or equal then 3
+
+$("#handle").focusout(function(){
+
+	if($(this).val().length >= 3){
+	$(this).prop('disabled', true)
+	}
+});	
+
 //Emit Events 
 
 btn.addEventListener('click', function(){
@@ -27,6 +36,7 @@ btn.addEventListener('click', function(){
 	return false;
 }
 });
+
 // enter key to send the input
 document.getElementById("message").addEventListener("keydown", function(e) {
     if (!e) { var e = window.event; }
