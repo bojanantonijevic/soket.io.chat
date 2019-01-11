@@ -50,4 +50,5 @@ function makeNoTypingState() {
 
 $("#output").bind("DOMSubtreeModified", function() {
    $('#chat-window').animate({scrollTop: $('#chat-window').prop("scrollHeight")}, 100);
+	$('#feedback').animate({scrollTop: $('#feedback').prop("scrollHeight")}, 100);
 });
