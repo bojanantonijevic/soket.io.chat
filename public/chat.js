@@ -49,5 +49,5 @@ function makeNoTypingState() {
 };
 
 $("#output").bind("DOMSubtreeModified", function() {
-    $('#output').animate({scrollTop: $('#output').prop("scrollHeight")}, 500);
+   $('#chat-window').animate({scrollTop: $('#chat-window').prop("scrollHeight")}, 500);
 });
