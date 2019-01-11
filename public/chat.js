@@ -48,4 +48,6 @@ function makeNoTypingState() {
     feedback.innerHTML = "";
 };
 
-
+$("#chat-window").bind("DOMSubtreeModified", function() {
+    $('#chat-window').animate({scrollTop: jQuery("p").last().offset().top},'slow');
+});
