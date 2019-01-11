@@ -14,7 +14,7 @@ var message = document.getElementById('message');
 //Emit Events 
 
 btn.addEventListener('click', function(){
-
+	if(message.value !== ''){
 	socket.emit('chat', {
 		message : message.value,
 		handle : handle.value
@@ -23,7 +23,7 @@ btn.addEventListener('click', function(){
 
 	message.value = '';
 
-});
+}});
 // enter key to send the input
 document.getElementById("message").addEventListener("keydown", function(e) {
     if (!e) { var e = window.event; }
