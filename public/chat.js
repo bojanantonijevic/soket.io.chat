@@ -47,5 +47,5 @@ socket.on('typing', function(data){
 function makeNoTypingState() {
     feedback.innerHTML = "";
 };
-setInterval(function(){ $('#chat-window').animate({scrollTop: $('#chat-window').prop("scrollHeight")}, 500); }, 100);
+
 
