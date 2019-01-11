@@ -23,15 +23,19 @@ btn.addEventListener('click', function(){
 
 	message.value = '';
 
-}});
+}else{
+	return false;
+}
+});
 // enter key to send the input
 document.getElementById("message").addEventListener("keydown", function(e) {
     if (!e) { var e = window.event; }
     
     // Enter is pressed
-    if (e.keyCode == 13) { socket.emit('chat', {
-		message : message.value,
-		handle : handle.value
+    if ((e.keyCode == 13) && ($(message).val().length !== 0) ) { 
+    	socket.emit('chat', {
+			message : message.value,
+			handle : handle.value
 
 	}); message.value = '';}
 }, false);
