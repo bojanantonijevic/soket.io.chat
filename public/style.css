@@ -35,6 +35,11 @@ h2{
     color: #aaa;
     padding: 14px 0px;
     margin: 0 20px;
+    border-style: none!important;
+}
+
+#feedback {
+    border-style: none!important;
 }
 
 #output strong{
