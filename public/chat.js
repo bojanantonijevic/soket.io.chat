@@ -46,6 +46,5 @@ socket.on('typing', function(data){
 
 function makeNoTypingState() {
     feedback.innerHTML = "";
-}
-
-//node indexno
+};
+$('#chat-window').animate({scrollTop: $('#chat-window').prop("scrollHeight")}, 500);
